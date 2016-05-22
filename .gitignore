@@ -16,6 +16,7 @@
 node_modules/
 static/bundle.js
 priv/static/bundle.js
+public/bundle.js
 
 /_build
 /cover
